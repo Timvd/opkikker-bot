@@ -1,0 +1,11 @@
+{
+  "name": "opkikker-bot",
+  "version": "0.0.1",
+  "main": "server.js",
+  "author": "Tim <timdensen@gmail.com>",
+  "license": "MIT",
+
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
